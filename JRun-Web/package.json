@@ -1,0 +1,34 @@
+{
+  "name": "jrun-web",
+  "version": "1.0.0",
+  "description": "JRun Automation Testing Platform Frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "jrun",
+    "automation",
+    "testing",
+    "platform"
+  ],
+  "author": "JRun Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "pinia": "^2.0.28",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "radix-vue": "^1.9.17",
+    "tailwindcss": "^3.2.4",
+    "tailwindcss-animate": "^1.0.0",
+    "vite": "^4.0.0"
+  }
+}
