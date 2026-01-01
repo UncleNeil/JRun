@@ -27,14 +27,14 @@ JRun/
 - Vue Router 4
 - Pinia 状态管理
 - Vite 构建工具
-- Tailwind CSS + DaisyUI
+- Tailwind CSS + ShadcnUI
 - Axios HTTP 客户端
 
 ## 快速开始
 
 ### 环境准备
 
-1. 安装 Java 11+ 和 Maven 3.6+
+1. 安装 Java 17+ 和 Maven 3.6+
 2. 安装 Node.js 16+ 和 npm
 3. 安装 MySQL 8.0+
 

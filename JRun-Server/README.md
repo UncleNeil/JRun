@@ -29,7 +29,7 @@ src/main/java/com/jrun/
 
 ### 环境要求
 
-- Java 11+
+- Java 17+
 - Maven 3.6+
 - MySQL 8.0+
 
